@@ -1,0 +1,18 @@
+# ROS 2 colcon build artifacts
+install/
+log/
+build/
+
+# CMake and other temporary files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+
+# VSCode config
+.vscode/
+
+# Misc
+*.swp
+*.swo
